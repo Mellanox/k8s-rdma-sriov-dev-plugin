@@ -1,3 +1,9 @@
+![No longer maintained](https://img.shields.io/badge/Maintenance-OFF-red.svg)
+
+### [DEPRECATED] This repository is no longer maintained
+> You are still welcome to explore, learn, and use the code provided here. 
+> Alternatively, repository [k8s-rdma-shared-dev-plugin](https://github.com/mellanox/k8s-rdma-shared-dev-plugin) can be used.
+
 # k8s-rdma-sriov-dev-plugin
 (https://hub.docker.com/r/rdma/k8s-rdma-sriov-dev-plugin)
 
